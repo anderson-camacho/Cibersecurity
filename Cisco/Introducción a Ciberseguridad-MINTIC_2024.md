@@ -14,7 +14,7 @@ El **spyware** es un tipo de software malicioso que se instala en un sistema sin
 
 ### 1.2 Adware (Software de Publicidad)
 El **adware** es software que muestra anuncios no solicitados, a menudo con fines comerciales. Aunque algunos programas de adware son inofensivos, muchos pueden ser molestos y comprometer la privacidad del usuario al recopilar datos de navegación.  
-**Ejemplo:** Un programa gratuito se instala junto con un adware que empieza a mostrar anuncios emergentes de manera constante mientras el usuario navega en Internet, lo que puede llevar a sitios web maliciosos si el usuario hace clic en dichos anuncios.
+**Ejemplo:** Al instalar un programa gratuito en tu computadora, sin saberlo, también se instala un adware que empieza a mostrar anuncios emergentes de manera constante mientras navegas en Internet, lo que puede llevar a sitios web maliciosos si haces clic en dichos anuncios.
 
 #### **Impacto:**
 - Distracción continua por la presencia de anuncios.
@@ -144,20 +144,123 @@ Cisco ISE proporciona control de acceso a la red, autenticando y autorizando a u
 
 ---
 
-## 5. CSIRT de Cisco
+## 5. Certificaciones Profesionales
+
+Las **certificaciones de ciberseguridad** son una excelente manera de verificar tus habilidades y conocimientos, y también pueden impulsar tu carrera. A continuación se detallan algunas de las certificaciones más comunes.
+
+### 5.1 Técnico de Soporte Certificado de Cisco (CCST) Ciberseguridad
+La certificación **CCST** está dirigida a estudiantes de secundaria y universitarios, así como a aquellos interesados en un cambio de carrera. Proporciona los conocimientos básicos para comenzar en el campo de la ciberseguridad.  
+**Nivel de dificultad:** Principiante.  
+**Tiempo de estudio:** Aproximadamente 3-6 meses.  
+**Tiempo de examen:** 1 hora.  
+**Enlace:** [Cisco Certification](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
+
+### 5.2 CompTIA Security+
+Esta es una certificación de seguridad de nivel principiante que cumple con los requisitos de la Directiva 8570.01-M del Departamento de Defensa de los EE. UU. Es ideal para aquellos que buscan trabajar en seguridad de TI para el gobierno federal.  
+**Nivel de dificultad:** Principiante.  
+**Tiempo de estudio:** Aproximadamente 3-6 meses.  
+**Tiempo de examen:** 90 minutos.  
+**Enlace:** [CompTIA Security+](https://www.comptia.org/certifications/security)
+
+### 5.3 EC Council Certified Ethical Hacker (CEH)
+La certificación **CEH** pone a prueba el conocimiento sobre cómo buscar debilidades y vulnerabilidades en los sistemas de destino, utilizando las mismas herramientas que un hacker malintencionado pero de manera ética y legal.  
+**Nivel de dificultad:** Intermedio.  
+**Tiempo de estudio:** Aproximadamente 6-12 meses.  
+**Tiempo de examen:** 4 horas.  
+**Enlace:** [EC-Council CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+
+### 5.4 Profesional Certificado en Seguridad de los Sistemas Informáticos (CISSP)
+La **CISSP** es una de las certificaciones más reconocidas y populares en el mundo de la seguridad. Para tomar el examen, se requiere al menos cinco años de experiencia en la industria relevante.  
+**Nivel de dificultad:** Avanzado.  
+**Tiempo de estudio:** Aproximadamente 6-12 meses.  
+**Tiempo de examen:** 6 horas.  
+**Enlace:** [CISSP Certification](https://www.isc2.org/Certifications/CISSP)
+
+### 5.5 Cisco Certified CyberOps Associate
+Esta certificación valida las habilidades requeridas de los analistas de ciberseguridad de nivel asociado dentro de los centros de operaciones de seguridad.  
+**Nivel de dificultad:** Intermedio.  
+**Tiempo de estudio:** Aproximadamente 3-6 meses.  
+**Tiempo de examen:** 120 minutos.  
+**Enlace:** [Cisco CyberOps](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/cyberops-associate.html)
+
+---
+
+### 5.6 Certified Information Systems Auditor (CISA)
+La certificación **CISA** se enfoca en la auditoría, control y seguridad de los sistemas de información. Es esencial para aquellos que buscan una carrera en auditoría de sistemas.  
+**Nivel de dificultad:** Avanzado.  
+**Tiempo de estudio:** Aproximadamente 6-9 meses.  
+**Tiempo de examen:** 4 horas.  
+**Enlace:** [CISA Certification](https://www.isaca.org/credentialing/cisa)
+
+### 5.7 Certified Information Security Manager (CISM)
+La certificación **CISM** está orientada a los gestores de seguridad, cubriendo áreas como la gestión de incidentes, la gobernanza y la gestión del riesgo.  
+**Nivel de dificultad:** Avanzado.  
+**Tiempo de estudio:** Aproximadamente 6-9 meses.  
+**Tiempo de examen:** 4 horas.  
+**Enlace:** [CISM Certification](https://www.isaca.org/credentialing/cism)
+
+### 5.8 Certified Cloud Security Professional (CCSP)
+La certificación **CCSP** valida los conocimientos sobre la seguridad en la nube, un área crítica en la infraestructura tecnológica moderna.  
+**Nivel de dificultad:** Intermedio.  
+**Tiempo de estudio:** Aproximadamente 4-6 meses.  
+**Tiempo de examen:** 4 horas.  
+**Enlace:** [CCSP Certification](https://www.isc2.org/Certifications/CCSP)
+
+### 5.9 CompTIA Cybersecurity Analyst (CySA+)
+La certificación **CySA+** está diseñada para los profesionales que desean realizar análisis de seguridad en redes y sistemas.  
+**Nivel de dificultad:** Intermedio.  
+**Tiempo de estudio:** Aproximadamente 3-6 meses.  
+**Tiempo de examen:** 165 minutos.  
+**Enlace:** [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
+
+### 5.10 Certified Network Defender (CND)
+La certificación **CND** se enfoca en defender las redes de ataques cibernéticos y asegurarse de que los sistemas estén protegidos contra accesos no autorizados.  
+**Nivel de dificultad:** Intermedio.  
+**Tiempo de estudio:** Aproximadamente 3-6 meses.  
+**Tiempo de examen:** 4 horas.  
+**Enlace:** [CND Certification](https://www.eccouncil.org/programs/certified-network-defender-cnd/)
+
+### 5.11 GIAC Security Essentials (GSEC)
+La **GSEC** es una certificación que valida los conocimientos fundamentales de seguridad informática, abarcando áreas como la protección de redes y la gestión de incidentes.  
+**Nivel de dificultad:** Principiante/Intermedio.  
+**Tiempo de estudio:** Aproximadamente 3-6 meses.  
+**Tiempo de examen:** 5 horas.  
+**Enlace:** [GSEC Certification](https://www.giac.org/certifications/security-essentials-gsec)
+
+### 5.12 GIAC Certified Incident Handler (GCIH)
+La certificación **GCIH** está orientada a los profesionales que manejan incidentes de seguridad. Cubre desde la detección hasta la respuesta ante un ataque.  
+**Nivel de dificultad:** Intermedio.  
+**Tiempo de estudio:** Aproximadamente 6-9 meses.  
+**Tiempo de examen:** 4 horas.  
+**Enlace:** [GCIH Certification](https://www.giac.org/certifications/certified-incident-handler-gcih)
+
+### 5.13 Certified Penetration Testing Engineer (CPTE)
+La certificación **CPTE** valida las habilidades de los profesionales de la seguridad en la realización de pruebas de penetración para encontrar vulnerabilidades.  
+**Nivel de dificultad:** Intermedio/Avanzado.  
+**Tiempo de estudio:** Aproximadamente 6 meses.  
+**Tiempo de examen:** 4 horas.  
+**Enlace:** [CPTE Certification](https://www.eccouncil.org/programs/certified-penetration-testing-engineer-cpte/)
+
+---
+
+## 6. CyberSeek - Mapa de Carreras en Ciberseguridad
+
+[**CyberSeek**](https://www.cyberseek.org/pathway.html) es una herramienta interactiva que proporciona datos detallados sobre la oferta y la demanda en el mercado laboral de ciberseguridad. Esta herramienta es útil para los profesionales que buscan entender las tendencias del mercado, los roles disponibles y las certificaciones necesarias para avanzar en sus carreras en ciberseguridad. CyberSeek también muestra las brechas de habilidades y proporciona información sobre las áreas más críticas que requieren expertos en ciberseguridad.  
+
+CyberSeek ayuda a identificar las oportunidades laborales en ciberseguridad y ofrece una visión clara de las rutas de carrera disponibles en este campo en constante expansión. Además, proporciona estadísticas sobre la demanda de profesionales cualificados y las certificaciones más relevantes para conseguir esos roles.
+
+---
+
+## 7. CSIRT de Cisco
 
 El **Equipo de Respuesta a Incidentes de Seguridad Informática (CSIRT)** de Cisco es responsable de recibir y responder a incidentes de seguridad informática. Este equipo va más allá de la simple respuesta ante incidentes, realizando evaluaciones proactivas de amenazas y colaborando con diversas organizaciones para mejorar las defensas.
 
 ![CSIRT de Cisco](https://github.com/user-attachments/assets/56efa8dc-70f4-47e8-a9a8-ee307cce1605)
 
-### 5.1 Enfoque Proactivo
+### 7.1 Enfoque Proactivo
 El **CSIRT de Cisco** adopta un enfoque proactivo colaborando con organizaciones como **FIRST**, **NSIE**, **DSIE**, y **DNS-OARC** para mantenerse actualizado con los últimos desarrollos y tendencias en seguridad.
 
 ---
 
 ### **Conclusión:**
-La **ciberseguridad** es un campo amplio que involucra la protección de sistemas y redes contra una variedad de amenazas. Las herramientas como SIEM, DLP, y tecnologías como Cisco ISE y TrustSec, así como las estrategias de respuesta ante incidentes como las que emplea el CSIRT de Cisco, son fundamentales para proteger las infraestructuras tecnológicas y responder de manera efectiva ante las amenazas emergentes.
-
----
-
-Estas **notas de clase** cubren los conceptos clave de la ciberseguridad, incluidos los diferentes tipos de malware, las estrategias de seguridad para la detección de incidentes, y las herramientas que se utilizan en la prevención y mitigación de amenazas. Además, se proporciona una visión general de cómo Cisco contribuye con herramientas como ISE, TrustSec y CSIRT para fortalecer las defensas contra los ciberataques.
+La **ciberseguridad** es un campo amplio que involucra la protección de sistemas y redes contra una variedad de amenazas. Las herramientas como SIEM, DLP, y tecnologías como Cisco ISE y TrustSec, así como las estrategias de respuesta ante incidentes como las que emplea el CSIRT de Cisco, son fundamentales para proteger las infraestructuras tecnológicas y responder de manera efectiva ante las amenazas emergentes. Además, obtener certificaciones como **CISSP**, **CEH**, **CompTIA Security+** y muchas otras fortalece las competencias de un profesional en el campo y abre nuevas oportunidades en la carrera de ciberseguridad.
